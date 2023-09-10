@@ -228,7 +228,7 @@ JVM 这部分内容主要参考 [JVM 虚拟机规范-Java8 ](https://docs.oracle
 
 [Elasticsearch 常见面试题总结(付费)](./docs/database/elasticsearch/elasticsearch-questions-01.md)
 
-![JavaGuide 官方公众号](https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png)
+![JavaGuide 官方公众号](https://s2.loli.net/2023/09/10/tvIgVZQLnrBkzeO.png)
 
 ## 开发工具
 
