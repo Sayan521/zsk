@@ -1,8 +1,8 @@
-[<img src="https://github.com/Sayan521/zsk/blob/master/media/pictures/ad.png" style="width:850px;margin: 0 auto" />](https://pgup.me)
+[<img src="https://s2.loli.net/2023/09/10/P9Yc5mUMusLnKSe.png" style="width:850px;margin: 0 auto" />](https://pgup.me)
 
 <div align="center">
 
-[![logo](https://github.com/Sayan521/zsk/blob/master/media/pictures/logo.png?raw=true)](https://pgup.me)
+[![logo](https://s2.loli.net/2023/09/10/cOCmTZhvHt1Urn8.png)](https://pgup.me)
 
 </div>
 
@@ -11,7 +11,7 @@
 > - **使用建议** ：有水平的面试官都是顺着项目经历挖掘技术问题。一定不要死记硬背技术八股文！详细的学习建议请参考：[JavaGuide 使用建议](./javaguide/use-suggestion.md)。
 
 <div align="center">
-  <img src="https://github.com/Sayan521/zsk/blob/master/media/pictures/gongzhonghaoxuanchuan.png" style="margin: 0 auto;" />  
+  <img src="https://s2.loli.net/2023/09/10/tvIgVZQLnrBkzeO.png" style="margin: 0 auto;" />  
 </div>
 
 <!-- #region home -->
@@ -418,6 +418,6 @@ JVM 这部分内容主要参考 [JVM 虚拟机规范-Java8 ](https://docs.oracle
 
 如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。
 
-![JavaGuide 官方公众号](https://github.com/Sayan521/zsk/blob/master/media/pictures/gongzhonghaoxuanchuan.png)
+![JavaGuide 官方公众号](https://s2.loli.net/2023/09/10/tvIgVZQLnrBkzeO.png)
 
 <!-- #endregion home -->
