@@ -1,4 +1,4 @@
-[<img src="https://s2.loli.net/2023/09/10/P9Yc5mUMusLnKSe.png" style="width:850px;margin: 0 auto" />](https://pgup.me)
+[<img src="https://s2.loli.net/2023/09/10/P9Yc5mUMusLnKSe.png" style="width:850px;margin: 0 auto" />](https://public.zsxq.com/groups/48418884588288.html)
 
 <div align="center">
 
